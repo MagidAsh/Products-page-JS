@@ -80,6 +80,12 @@ button {
   border-radius: 10px;
 }
 
+.selected {
+  background-color: #f6f6f7;
+  border: 2px solid #220efa;
+  color: #220efa;
+}
+
 @media (max-width: 1000px) {
   #search {
     display: flex;
